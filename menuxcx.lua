@@ -1,6 +1,3 @@
-MS MENU 
-
-
 
 -------
 -- // make multiselect in order
@@ -12,7 +9,7 @@ MS MENU
 
 
 local Settings = {
-    Accent = Color3.fromHex("##c7a5d5"),
+    Accent = Color3.fromHex("#c7a5d5"),
     Font = Enum.Font.SourceSans,
     IsBackgroundTransparent = true,
     Rounded = false,
